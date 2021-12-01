@@ -6,7 +6,7 @@ class Users extends CI_controller {
   {
     $this->load->view('welcome_message');
   }
-public function register(){
+public function register($param1){
     echo"register"();
     exit;
   }

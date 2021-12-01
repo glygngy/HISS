@@ -1,4 +1,4 @@
-</php
+<?php
 define(name'basepath') OR exit ('No direct script allowed');
 
 class Users extends CI_controller {
